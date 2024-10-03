@@ -118,7 +118,7 @@ function TrendingCourses() {
                                             </div>
                                             <div className="mt-4 flex justify-center md:justify-end w-full md:rotate-0 -rotate-90 mb-4">
                                                 <Link to={`/${course.id}`}>
-                                                    <button className="text-white font-semibold text-[12px] md:text-[16px] text-nowrap py-2 px-4 bg-orange rounded hover:bg-orange-600">
+                                                    <button className="text-white font-semibold text-[12px] md:text-[16px] text-nowrap py-2 px-4 bg-[#08528e] rounded-lg hover:bg-orange-600">
                                                         Explore More
                                                     </button>
                                                 </Link>

@@ -16,9 +16,9 @@ const Type = () => {
     return (
         <div className="w-full  h-auto md:h-[500px] flex flex-col md:flex-row items-center justify-center">
             <div className="flex flex-col items-center  md:items-start justify-center text-center md:text-left pt-6  md:pt-12 h-auto md:h-[90%] font-bold w-[100%] md:w-[40%] text-3xl md:text-4xl">
-                <div> <h1 className="pb-2">Get a Step Ahead</h1>
+                <div> <h1 className="pb-2  ">Get a Step Ahead</h1>
                     with Our &nbsp;
-                    <span className="text-orange">{typewriter}<Cursor /></span>
+                    <span className="text-[#08528e]">{typewriter}<Cursor /></span>
                     <br />
                     <h1 className="pt-2">Platform.</h1></div>
                 <p className="text-sm md:text-base font-medium pt-4 w-[80%] md:w-full">

@@ -56,7 +56,7 @@ function HiringPartners() {
 
 const logos = [
     './companiesLogo/ats.jpeg', 
-    './companiesLogo/gew.jpeg', 
+    './companiesLogo/galadari.png', 
     './companiesLogo/hucon.jpeg',   
     './companiesLogo/subhlakshmi.jpeg', 
     './companiesLogo/techbrawn.jpeg', 
