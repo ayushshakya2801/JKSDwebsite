@@ -356,7 +356,7 @@ const Iot = () => {
     </div>
 
     <div className="p-4 lg:p-8 flex justify-center items-center lg:items-start">
-        <img className='rounded-lg h-[180px] sm:h-[240px] lg:h-[280px]' src={iot} alt="" />
+        <img className='rounded-lg h-[180px] sm:h-[240px] lg:h-[280px]' src='./Images/tiot.png' alt="" />
     </div>
 </div>
  {/* digital section close here  */}

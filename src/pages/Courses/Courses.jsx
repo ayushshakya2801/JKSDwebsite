@@ -63,38 +63,38 @@ const data = [
         id: 'digitalmarketing',
         title: 'Digital Marketing',
         description: 'Thrive in digital brand growth',
-        image: './Images/digitall.png'
+        image: './Images/tdigital.png'
     },
     {
 
         id: 'dataanalytics',
         title: 'Data Analytics',
         description: 'Analyze data for actionable insights',
-        image: './Images/Data.webp'
+        image: './Images/tdata.png'
     },
     {
         id: 'python',
         title: 'Python',
         description: 'Build full-stack web applications',
-        image: './Images/python.jpg'
+        image: './Images/tpython.png'
     },
     {
         id: 'businessanalyst',
         title: 'Business Analyst',
         description: 'Protect systems from digital threats',
-        image: './Images/cybersecurity.jpg'
+        image: './Images/bussinessanya.jpg'
     },
     {
         id: 'iot',
         title: 'Internet of Things',
         description: 'Connect and manage smart devices',
-        image: './Images/IoT.png'
+        image: './Images/tiot.png'
     },
     {
         id: 'embedded',
         title: 'Embedded Systems',
         description: 'Design and develop embedded technologies',
-        image: './Images/embebded.jpg'
+        image: './Images/embated.jpg'
     }
 ]
 
