@@ -31,6 +31,11 @@ import Roboticsc from './pages/Blogspages/Roboticsc.jsx'
 import Paythonc from './pages/Blogspages/Paythonc.jsx'
 import Iotfiver from './pages/Blogspages/Iotfiver.jsx'
 import Clang from './pages/Blogspages/clang.jsx'
+import Mern from './pages/Courses/Mern.jsx'
+import Mean from './pages/Courses/Mean.jsx'
+import DataScience from './pages/Courses/DataScience.jsx'
+import Dotnet from './pages/Courses/Dotnet.jsx'
+import CouldComputer from './pages/Courses/CouldComputer.jsx'
 
 
 
@@ -72,6 +77,11 @@ const router = createBrowserRouter(
       <Route path='paythonc' element={<Paythonc/>} />
       <Route path='iotfiver' element={<Iotfiver/>} />
       <Route path='clang' element={<Clang/>} />
+      <Route path ='mern' element = {<Mern/>}/>
+      <Route path ='mean' element = {<Mean/>}/>
+      <Route path ='datascience' element = {<DataScience/>}/>
+      <Route path ='dotnet' element = {<Dotnet/>}/>
+      <Route path='cloud-computer'  element ={<CouldComputer/>}/>
       
       
       

@@ -95,6 +95,36 @@ const data = [
         title: 'Embedded Systems',
         description: 'Design and develop embedded technologies',
         image: './Images/embated.jpg'
+    },
+    {
+        id: 'mern',
+        title: ' MERN Stack',
+        description: 'Mern Stack developer skilled in full-stack development.',
+        image: './Images/mernstack.jpg'
+    },
+    {
+        id: 'mean',
+        title: 'MEAN Stack',
+        description: 'Mastering the MERN Stack Fundamentals',
+        image: './Images/mean.jpg'
+    },
+    {
+        id: 'datascience',
+        title: 'Data Science',
+        description: 'Unlocking Insights with Data Science',
+        image: './Images/datascience.jpg'
+    },
+    {
+        id: 'dotnet',
+        title: 'DOT NET Programming',
+        description: 'Mastering the MERN Stack Fundamentals',
+        image: './Images/dotnet.jpg'
+    },
+    {
+        id: 'cloud-computer',
+        title: 'Cloud Computing',
+        description: 'Unlocking Insights with Data Science',
+        image: './Images/cloudcomputing.jpg'
     }
 ]
 
